@@ -1,27 +1,43 @@
+# =========================
 # Node
+# =========================
 node_modules/
 
+# =========================
 # Env / Secrets
+# =========================
 .env
 *.env
+
+# OpenClaw sensitive configs
+openclaw-config/**/auth-profiles.json
+openclaw-config/**/models.json
 openclaw-config/openclaw.json
 openclaw-config/profile.env
 
+# =========================
 # Logs
-logs
+# =========================
+logs/
 *.log
 npm-debug.log*
 
+# =========================
 # OS / Editor junk
+# =========================
 .DS_Store
 *.swp
 *.swo
 
+# =========================
 # Runtime / temp
+# =========================
 tmp/
 temp/
 
-# Tokens (extra safety)
+# =========================
+# Tokens (extra safety net)
+# =========================
 *token*
 *secret*
 *key*
