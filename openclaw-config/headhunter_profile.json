@@ -1,0 +1,26 @@
+{
+  "name": "Najibullah",
+  "role_target": [
+    "SOC Analyst",
+    "Detection Engineer",
+    "Threat Intelligence Analyst",
+    "Security Operations Engineer"
+  ],
+  "skills": [
+    "Splunk",
+    "SIEM",
+    "Incident Response",
+    "Log Analysis",
+    "Threat Detection",
+    "CDN Operations",
+    "AWS (basic)",
+    "ServiceNow",
+    "Linux/Windows environments"
+  ],
+  "experience_summary": "10+ years in SOC, CDN operations, production engineering, and security monitoring environments.",
+  "preferences": {
+    "location": "Remote or Los Angeles",
+    "salary_min": 100000,
+    "focus": "Detection Engineering and SOC roles"
+  }
+}

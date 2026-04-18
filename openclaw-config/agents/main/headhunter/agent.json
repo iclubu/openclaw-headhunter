@@ -1,0 +1,14 @@
+{
+  "name": "headhunter",
+  "description": "Job matching and career intelligence agent",
+  "mode": "analysis",
+  "systemPromptFile": "/home/iclubu/.openclaw/system.txt",
+  "profileFile": "/home/iclubu/.openclaw/headhunter_profile.json",
+  "capabilities": [
+    "resume_analysis",
+    "job_matching",
+    "job_scraping",
+    "salary_estimation"
+  ],
+  "toolsEnabled": false
+}
